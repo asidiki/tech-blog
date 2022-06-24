@@ -12,7 +12,6 @@ The app uses the MVC paradign and built using Node.js, Express.js, Sequelize ORM
 
 
 ## Usage 
-This application allows users to budget their finances easily. They can add money coming in and subtract money going out, the results can be seen in a graph which shows how your finances are trending.
 App can be accessed on [Heroku](https://best-tech-blog.herokuapp.com/)<br>
 
 ## Screenshot
