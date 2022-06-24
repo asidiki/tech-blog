@@ -1,4 +1,4 @@
-# Budget-Tracker
+# Tech-Blog
 ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description 
